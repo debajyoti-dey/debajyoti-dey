@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @debajyoti-dey
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI
+- 👋 Hi, I’m @debajyoti-dey 
+- 👀 I’m interested in AI and Dynamics 365
+- 🌱 I’m currently learning AI and Dynamics 365
+- 💞️ I’m looking to collaborate on Dynamics 365
 - 📫 How to reach me - Debajyoti.dey@hotmail.com
+- ✨ Read my Blog - https://www.dynamics365dev.blog/
 
 
 <!---
